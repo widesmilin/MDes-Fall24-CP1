@@ -1,2 +1,2 @@
-# MDes-Fall24-CP1
-Things made possibly last minute...
+# sophielin
+This is a collection of files for Mdes at artcenter.
